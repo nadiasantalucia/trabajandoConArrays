@@ -58,5 +58,5 @@ result.sort(function (a,b) {
 });
 
 // Sugerencia de cómo mostrar el array => showList(strangeArray);
-  showList(strangeArray);
+  showList(result);
 });
